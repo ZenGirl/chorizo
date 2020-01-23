@@ -14,7 +14,7 @@ Common Horizontal data - data that needs to be atomic and be available across ap
 
 Add this line to your application's Gemfile:
 
-    gem 'JFormalize'
+    gem 'chorizo'
 
 And then execute:
 
@@ -22,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install JFormalize
+    $ gem install chorizo
 
 ## Testing
 
