@@ -40,9 +40,9 @@ Or when a phone number is `active` for a ship wright but `inactive` for a boat?
 The linkage data handles this using active flags and priority statuses at all levels.
 
 By doing this, an app could, for example, search for a persons name, and from that obtain their phone numbers.
-And from that locate all organizations that have that number.
-And from that get the departments in that organization.
-And from that get all the people in each department.
+And from those locate all organizations that have that number.
+And from those get the departments in that organization.
+And from those get all the people in each department.
 And so on.
 
 In effect it is a simple graph that links all these atoms of data together.
